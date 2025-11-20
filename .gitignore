@@ -1,3 +1,5 @@
 target/
 testScript.sh
 build/
+pkg/
+kondo-*
