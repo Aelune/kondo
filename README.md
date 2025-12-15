@@ -5,7 +5,7 @@
 **Intelligent file organization powered by machine learning**
 
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![License: GPL-3](https://img.shields.io/badge/License-GPL3-yellow.svg?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-lightgrey?style=for-the-badge)](https://github.com)
 [![Made with Rust](https://img.shields.io/badge/Made%20with-Rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 
@@ -663,7 +663,7 @@ Contributions are welcome! We especially appreciate help with:
 
 <div align="center">
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **GPL-3 License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
